@@ -1,0 +1,12 @@
+Clase 1 Validando con HTML
+
+1. Tipos de Input: En el formulario especifica el tipo de campo html
+2. maxLength/minLength: Maximo y minimo de caracteres html
+3. Atributo requerido: Convierte enhe obligatorio un campo 
+
+
+Clase 2 Validacion con JS
+
+1. Expresiones Regulares: pattern: \d{2}?{-\/}?\d{2}?{-\/}?\d{4}?  (expresion regular para fechas)
+2. addEventListeners: crear js, 
+
